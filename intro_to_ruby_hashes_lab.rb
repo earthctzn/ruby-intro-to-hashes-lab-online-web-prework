@@ -12,7 +12,7 @@ def monopoly
 	new_hash = {
 	  :railroads =>{}
 	}
-end
+  end
 
 def monopoly_with_second_tier
    new_hash = {
